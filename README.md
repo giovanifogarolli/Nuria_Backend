@@ -8,7 +8,7 @@ Desenvolver duas funções relacionadas com Matrizes.
 ## Recomendação
 
 O código foi escrito para ser testado na prática, para melhor experiencia recomendo executar o JAR dentro de seu Prompt de preferência. </br>
-Para isso <a href="https://github.com/giovanifogarolli/Nuria_Backend/edit/main/README.md#primeira-quest%C3%A3o">Clique aqui</a>.
+Para isso <a href="">Clique aqui</a>.
 
 ## Resolução
 
